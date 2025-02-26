@@ -1,4 +1,4 @@
-# 📊 Social Buzz Data Analysis – Accenture NA Forage Simulation
+# Social Buzz Data Analysis – Accenture NA Forage Simulation
 
 ## 🚀 Project Recap
 
@@ -84,7 +84,15 @@ This project was a **fantastic deep dive** into **data analytics, visualization,
 ### 🛠 Tools Used  
 - **SQL** – For querying and data wrangling  
 - **Excel** – Data analysis & modeling  
-- **PowerPoint** – Crafting the final presentation  
+- **PowerPoint** – Crafting the final presentation
+
+---
+
+## 👨‍💻LinkedIn post [Link](https://www.linkedin.com/posts/kartik-zingade-90227a1a6_forage-certificate-activity-7300510602198667265-66fq?utm_source=share&utm_medium=member_desktop&rcm=ACoAADAX95IBKuFELNjXMfvoNLFbpMceNYD_MP8)
+
+## 🏆Certificate [Link](https://github.com/kartikkwearsmask/Social-Buzz-by-Forage-and-Accenture/blob/74045abe0a29f1d949d81b75523b288db539c78e/Accenture%20certificate.pdf)
+
+---
 
 📌 **Explore the repo, check out the insights, and let’s connect!**  
 
